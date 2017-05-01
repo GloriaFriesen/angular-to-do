@@ -1,0 +1,23 @@
+{
+  "name": "angular2-to-do",
+  "description": "angular to do app",
+  "main": "index.html",
+  "authors": [
+    "Gloria and Jahan"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "\"\""
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
